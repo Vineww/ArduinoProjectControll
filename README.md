@@ -1,4 +1,4 @@
-# Workshop React 2024
+# Frontend Template para inicio da Construção da Tela
 
 ## Documentações
 
@@ -28,3 +28,11 @@ npm run build
 ```
 
 O Vite irá criar uma pasta chamada `dist`, onde estarão os arquivos gerados do projeto.
+
+Componentes basicos podem Ser achados dentro da Site do React e utilizando tambem o AntDesign
+
+https://react.dev/reference/react/Component
+
+https://ant.design/components/overview
+
+
